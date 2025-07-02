@@ -1,0 +1,19 @@
+{
+  "name": "profile-views",
+  "version": "1.0.0",
+  "description": "GitHub Profile View Counter using Supabase and Vercel",
+  "main": "api/views.js",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.7"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "^33.5.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
