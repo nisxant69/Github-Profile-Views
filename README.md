@@ -1,4 +1,4 @@
-# 👁️ GitHub Profile Views Counter
+# GitHub Profile Views Counter
 
 A simple and elegant profile views counter for your GitHub profile README, built with Vercel and Supabase. Features real-time counting, persistent storage, and beautiful Shield.io badges.
 
